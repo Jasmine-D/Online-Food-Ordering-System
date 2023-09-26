@@ -1,4 +1,4 @@
-# DoorDash+: Online-Food-Ordering-System
+# DoorDash+: Online Food Ordering System
 **Demo:** https://drive.google.com/file/d/1UScfxbS7kyVjV9UYJ4OCdMHI_QRtDale/view?usp=drive_link
 
 ## Description
